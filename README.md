@@ -1,8 +1,4 @@
 - 👋 Hi, I’m Muhamad Jahir R @thisis-jahir
-- 🚀 Aspiring Data Scientist 
-- 🌱 Passionate about Data Analysis, Machine Learning, and Python Developer 
-- 📊 Skilled in: Python, SQL, Data Visualization (Matplotlib, Seaborn, Power BI, Tableau)
-- 💡 Constant learner | Exploring AI, NLP, and Data Visualization
 - 🌟 My Certification - Diploma in Data Science and Course of Tableau
 - 📚 Building projects: Machine Learning deployment using Python | Regression, Classification, Clustering with Plot | Open to collaborations!
 - 🎓 M.Sc Statistics | Periyar University
